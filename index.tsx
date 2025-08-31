@@ -1,4 +1,4 @@
-// src/pages/index.tsx
+/ src/pages/index.tsx
 import Head from 'next/head';
 
 export default function Home() {
